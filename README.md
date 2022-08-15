@@ -1,6 +1,6 @@
 # Web Dashboard Using Dash Plotly 
 An interactive web dashboard for data analysis and visualization.
-![Screenshot](SCREENSHOT.PNG)
+![Screenshot](Screenshot.PNG)
 
 
 # Link

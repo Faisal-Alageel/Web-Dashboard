@@ -17,5 +17,6 @@ This dashboard serves a general usage of visualization, therefore simple.
 
 
 ## Instructions
--  To install the necessary dependencies, run the "requirements.txt" file on your virtual env
--  run the "app.py" file 
+- clone the repo
+- install the necessary dependencies, run `pip install -r requirements.txt` file on your virtual env
+- run the "app.py" file and follow the local link in terminal 
